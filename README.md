@@ -22,7 +22,7 @@ Welcome to the official home for **pre-release builds**, announcements, and issu
 
 ## 🌐 About MCPMate  
 MCPMate is a unified **Model Context Protocol (MCP)** management tool designed for teams and developers to streamline the connection, configuration, and control of multiple MCP servers and clients.  
-It’s built to provide one configuration interface, handle complex routing, caching, and audit workflows — so you can focus on building intelligent applications and workflows instead of infrastructure.  [oai_citation:0‡MCPMate](https://mcpmate.io/?utm_source=chatgpt.com)  
+It’s built to provide one configuration interface, handle complex routing, caching, and audit workflows — so you can focus on building intelligent applications and workflows instead of infrastructure.
 Visit the official website for more details: [mcpmate.io](https://mcpmate.io/)  
 
 ## 💬 Join the Community  
